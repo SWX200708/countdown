@@ -1,0 +1,23 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\bin\Debug\倒计时软件.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\bin\Debug\倒计时软件.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\bin\Debug\倒计时软件.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.Main.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\倒计时软件\obj\x86\Debug\倒计时软件.pdb
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.exe
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.xml
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.pdb
+E:\vs2010\倒计时软件\倒计时软件\bin\Debug\倒计时软件.exe
+E:\vs2010\倒计时软件\倒计时软件\bin\Debug\倒计时软件.pdb
+E:\vs2010\倒计时软件\倒计时软件\bin\Debug\倒计时软件.xml
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.Main.resources
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.Resources.resources
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.vbproj.GenerateResource.Cache
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.Settings.resources
+E:\vs2010\倒计时软件\倒计时软件\bin\Debug\倒计时软件.exe.manifest
+E:\vs2010\倒计时软件\倒计时软件\bin\Debug\倒计时软件.application
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.exe.manifest
+E:\vs2010\倒计时软件\倒计时软件\obj\x86\Debug\倒计时软件.application
